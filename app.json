@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "sdkVersion": "20.0.0",
+    "name": "COTFC Caffeine",
+    "icon": "./app/assets/images/app-icon.png",
+    "loading": {
+      "backgroundImage": "./app/assets/images/splash.png"
+    }
+  }
+}
